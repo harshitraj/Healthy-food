@@ -1,0 +1,11 @@
+.kg-item {
+    background-color: rgb(238, 220, 191);
+    color: rgb(236, 149, 149) !important;
+    font-size: xx-large;
+    width: 100%;
+    padding: 15px ;
+}
+
+.button {
+    float: right;
+}
